@@ -978,12 +978,14 @@ https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/129
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186574&extension=ts&play_token=j8tvtalOGI
  
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png " group-title="SPORTS ",True Premiere 2
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/130
 https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186576&extension=ts&play_token=j8tvtalOGI
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.png " group-title="SPORTS ",True Premiere 3
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
