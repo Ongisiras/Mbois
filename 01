@@ -18,6 +18,13 @@ https://s.id/mojiHD_shareext-xs
 http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/Pygaf0_fHCQ/maxresdefault.jpg" group-title="LIVE EVENT" , Peacock PL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo=" https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title=" LIVE EVENT ",Live 4
 http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
 
@@ -25,6 +32,21 @@ http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/228.ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_3/chunklist_dvr.m3u8
 
+#EXTINF:-1 tvg-id="Sportstars 3 HD - [Channel 422].id" tvg-name="Sportstars 3 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="LIVE EVENT", Sportstars 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+ 
+
+#EXTINF:-1 tvg-id="Sportstars 4 - [Channel 422].id" tvg-name="Sportstars 4 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png" group-title="LIVE EVENT", Sportstars 4
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 ########################     TV NASIONAL   ###################################
 ##############################################################################
