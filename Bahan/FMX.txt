@@ -1,0 +1,386 @@
+#EXTINF:-1 group-title="FMX" tvg-logo="",ABC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
+#EXTINF:-1 group-title="FMX" tvg-logo="",AFN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#EXTINF:-1 group-title="FMX" tvg-logo="",Al Jazeera Arabic
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch245%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",Al Jazeera English err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch252%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",Anhui err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch222%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Animal Planet
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8  
+#EXTINF:-1 group-title="FMX" tvg-logo="",Animax
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Antv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Arirang
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",AXN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",BBC World news
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Bloomberg
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Cartoonito
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Cartoon Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",CCTV $
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Celestial Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
+#EXTINF:-1 group-title="FMX" tvg-logo="",CGTN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",CGTN Documentary
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",CNA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Citra Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Citra Dangdut
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Citra Drama
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Citra Entertainment
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Citra Muslim
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",CNN Indonesia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Crime Investigation
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",DAAI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Davinci
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch371%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Discovery Asia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Discovery Channel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",DMAX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Dragon
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",Dream Works err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch374%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",eEuro Sport
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",EWTN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",Fashion tv err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch16%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",First Highlight err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch900%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",First Warriors
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch999%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Food Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",France 24 english
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Garuda
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",GEM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Global Trekker
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",HGTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",History
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Hit Movie
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Hits
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Hooree
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Hunan
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",IDX Channel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",ID TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Jakarta Globe
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Jak tv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch392%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Jiangsu
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",JTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",KBS World
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Kompas tv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Lifestyle
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Lifetime
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Love Nature
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Metro TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8   
+EXTINF:-1 group-title="FMX" tvg-logo="",Moji err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",MTV 90
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",MTV Live
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",MY Zen err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch348%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",NHK World japan
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Nickelodeon
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Nick jr
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Paramount
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Praise
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Premier Sport
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",RAI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Reformed 21
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch365%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",Rock Action err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",Rock Entertainment err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch335%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",RT English
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",SCTV 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch395%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",Sea Today err
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch416%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Shenzen
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Sony Max
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Sony set
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",SPOTV 1
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",SPOTV 2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Stingray Festival
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Stingray Jazz
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Stingray Nature Scape
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8 s
+#EXTINF:-1 group-title="FMX" tvg-logo="",Stingray Now
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",TBN Asia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch61%29/index.m3u8 
+EXTINF:-1 group-title="FMX" tvg-logo="",Techstorm 
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch333%29/index.m3u8  
+#EXTINF:-1 group-title="FMX" tvg-logo="",TLC
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",Trans7
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8  
+#EXTINF:-1 group-title="FMX" tvg-logo="",Transtv
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8  
+#EXTINF:-1 group-title="FMX" tvg-logo="",TV 5 mondeasie
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",TV9
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",TVN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",TVN Movies
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8 
+#EXTINF:-1 group-title="FMX" tvg-logo="",TV ONE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
+#EXTINF:-1 group-title="FMX" tvg-logo="",TVRI
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
+ #EXTINF:-1 group-title="FMX" tvg-logo="",Zee Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
+
+################################   TV DIGITAL  ###############################
+
+=============================== TV DIGITAL ===========================================
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 2
+http://103.113.116.150:25461/mtm1/12345/48
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 3
+http://103.113.116.150:25461/mtm1/12345/49
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO SUPERSPORT 4
+http://103.113.116.150:25461/mtm1/12345/50
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FIGHT SPORT
+http://103.113.116.150:25461/mtm1/12345/51
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",OPTUS SPORT
+http://103.113.116.150:25461/mtm1/12345/54
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (PREMIER LEAGUE)
+http://103.113.116.150:25461/mtm1/12345/55
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (SERI A)
+http://103.113.116.150:25461/mtm1/12345/56
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (LALIGA)
+http://103.113.116.150:25461/mtm1/12345/57
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (MOTOR SPORT)
+http://103.113.116.150:25461/mtm1/12345/58
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (TENNIS)
+http://103.113.116.150:25461/mtm1/12345/59
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (ACTION)
+http://103.113.116.150:25461/mtm1/12345/60
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (GOLF)
+http://103.113.116.150:25461/mtm1/12345/61
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (CRICKET)
+http://103.113.116.150:25461/mtm1/12345/62
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (AFRICA CUP)
+http://103.113.116.150:25461/mtm1/12345/63
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SUPERSPORT WORLD (RUGBY)
+http://103.113.116.150:25461/mtm1/12345/64
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL)
+http://103.113.116.150:25461/mtm1/12345/69
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 2
+http://103.113.116.150:25461/mtm1/12345/70
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE (PREMIER FOOTBALL) 3
+http://103.113.116.150:25461/mtm1/12345/71
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 1 (THAI)
+http://103.113.116.150:25461/mtm1/12345/72
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 2 (THAI)
+http://103.113.116.150:25461/mtm1/12345/73
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE SPORTS 3 (THAI)
+http://103.113.116.150:25461/mtm1/12345/74
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 1)
+http://103.113.116.150:25461/mtm1/12345/75
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE VISIONS (BEIN SPORT 3)
+http://103.113.116.150:25461/mtm1/12345/76
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRUE TENNIS
+http://103.113.116.150:25461/mtm1/12345/77
+
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX+
+http://103.113.116.150:25461/mtm1/12345/122
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX SPORTS
+http://103.113.116.150:25461/mtm1/12345/123
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX SPORTS 2
+http://103.113.116.150:25461/mtm1/12345/124
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO SPORTS 1
+http://103.113.116.150:25461/mtm1/12345/125
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO SPORTS 2
+http://103.113.116.150:25461/mtm1/12345/126
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORT (PREMIER LEAGE)
+http://103.113.116.150:25461/mtm1/12345/127
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FOOTBALL)
+http://103.113.116.150:25461/mtm1/12345/128
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (EFL)
+http://103.113.116.150:25461/mtm1/12345/129
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (FORMULA)
+http://103.113.116.150:25461/mtm1/12345/130
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (CRICKET)
+http://103.113.116.150:25461/mtm1/12345/131
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY PROTECT
+http://103.113.116.150:25461/mtm1/12345/132
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SKY SPORTS (GOLF)
+http://103.113.116.150:25461/mtm1/12345/133
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ASTRO CRICKET
+http://103.113.116.150:25461/mtm1/12345/134
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MNCTV
+http://103.113.116.150:25461/mtm1/12345/6
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INDOSIAR
+http://103.113.116.150:25461/mtm1/12345/3
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RCTI
+http://103.113.116.150:25461/mtm1/12345/5
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SCTV
+http://103.113.116.150:25461/mtm1/12345/4
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",GTV
+http://103.113.116.150:25461/mtm1/12345/7
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANSTV
+http://103.113.116.150:25461/mtm1/12345/2
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TRANS7
+http://103.113.116.150:25461/mtm1/12345/1
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANTV
+http://103.113.116.150:25461/mtm1/12345/10
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RTV
+http://103.113.116.150:25461/mtm1/12345/14
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NET
+http://103.113.116.150:25461/mtm1/12345/11
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MOJI
+http://103.113.116.150:25461/mtm1/12345/15
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",MENTARI TV
+http://103.113.116.150:25461/mtm1/12345/25
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HOREE
+http://103.113.116.150:25461/mtm1/12345/112
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO
+http://103.113.116.150:25461/mtm1/12345/16
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO HITS
+http://103.113.116.150:25461/mtm1/12345/17
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO SIGNATURE
+http://103.113.116.150:25461/mtm1/12345/18
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HBO FAMILY
+http://103.113.116.150:25461/mtm1/12345/19
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CINEMAX
+http://103.113.116.150:25461/mtm1/12345/20
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARNER BROS TV
+http://103.113.116.150:25461/mtm1/12345/24
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IMC
+http://103.113.116.150:25461/mtm1/12345/21
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FLIK
+http://103.113.116.150:25461/mtm1/12345/22
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BIOSKOP INDONESIA
+http://103.113.116.150:25461/mtm1/12345/23
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CARTOON NETWORK
+http://103.113.116.150:25461/mtm1/12345/107
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIPLUS
+http://103.113.116.150:25461/mtm1/12345/26
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",HGTV
+http://103.113.116.150:25461/mtm1/12345/97
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TLC
+http://103.113.116.150:25461/mtm1/12345/98
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",AFN
+http://103.113.116.150:25461/mtm1/12345/99
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DISCOVERY
+http://103.113.116.150:25461/mtm1/12345/85
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO
+http://103.113.116.150:25461/mtm1/12345/86
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",NAT GEO WILD
+http://103.113.116.150:25461/mtm1/12345/87
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ANIMAL PLANET
+http://103.113.116.150:25461/mtm1/12345/88
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",INEWS
+http://103.113.116.150:25461/mtm1/12345/8
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",TV ONE
+http://103.113.116.150:25461/mtm1/12345/9
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",METRO TV
+http://103.113.116.150:25461/mtm1/12345/12
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",KOMPAS TV
+http://103.113.116.150:25461/mtm1/12345/13
+
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SINDONEWS TV
+http://103.113.116.150:25461/mtm1/12345/27
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNN INTERNATIONAL
+http://103.113.116.150:25461/mtm1/12345/29
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNBC INTERNATIONAL
+http://103.113.116.150:25461/mtm1/12345/32
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",RT
+http://103.113.116.150:25461/mtm1/12345/33
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BBC
+http://103.113.116.150:25461/mtm1/12345/34
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",ALJAZEERA
+http://103.113.116.150:25461/mtm1/12345/35
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",BLOOMBERG
+http://103.113.116.150:25461/mtm1/12345/36
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CGTN
+http://103.113.116.150:25461/mtm1/12345/37
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",DW CHANEL
+http://103.113.116.150:25461/mtm1/12345/38
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",EURO NEWS
+http://103.113.116.150:25461/mtm1/12345/39
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FRANCE 24
+http://103.113.116.150:25461/mtm1/12345/40
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",CNA
+http://103.113.116.150:25461/mtm1/12345/41
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",FOX NEES
+http://103.113.116.150:25461/mtm1/12345/42
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",IDX CHANEL
+http://103.113.116.150:25461/mtm1/12345/43
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",SEA TODAY
+http://103.113.116.150:25461/mtm1/12345/44
+#EXTINF:0 tvg-id="ext" group-title="TV DIGITAL",WARKOP DKI
+http://103.113.116.150:25461/mtm1/12345/45
