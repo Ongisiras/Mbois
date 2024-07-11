@@ -1,50 +1,50 @@
 #EXTM3U
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv1
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/117.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv2
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  HBO
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/001.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv3
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  HBO HITS
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/002.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv4
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/003.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv5
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  HBO FAMILY
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/004.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv6
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  CINEMAX
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/005.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv7
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  TRANS 7
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/006.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv8
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  TRANS TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/007.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv9
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  INDOSIAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/008.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv10
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  SCTV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/009.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv11
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  RCTI
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/010.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv12
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  MNCTV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/011.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv13
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  GTV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/012.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv14
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  TV ONE
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/013.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv15
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  ANTV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/014.ts
-#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv16
+#EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  NET TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/015.ts
 #EXTINF:0 tvg-logo=" " group-title=" tes hmtb gachor",  hmtv17
