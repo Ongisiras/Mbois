@@ -115,23 +115,4 @@ https://play.gachor99.my.id/roni/jimbaran/100
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/101
 
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 1 Auto Reso 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
-https://play.gachor99.my.id:443/roni/jimbaran/12125 
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 2 Auto Reso 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
-https://play.gachor99.my.id:443/roni/jimbaran/12126 
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 3 Auto Reso 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
-https://play.gachor99.my.id:443/roni/jimbaran/12127 
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 4 Auto Reso 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
-https://play.gachor99.my.id:443/roni/jimbaran/12128 
-#EXTINF:-1 group-title="SPORT" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 5 Auto Reso 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd?p=web
+
