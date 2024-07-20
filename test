@@ -1,34 +1,34 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", HBO
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/1
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 2
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", HBO HITS
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/2
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 3
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/3
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 4
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", HBO FAMILY
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/4
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 5
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", CINEMAX
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/5
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 6
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", TRANS 7
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/6
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 7
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", TRANS TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/7
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 8
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", INDOSIAR
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/8
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 9
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", 9
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/9
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 10
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", 10
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/10
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="Coppa",INDOSIAR 11
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", 11
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/11
