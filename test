@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", HBO
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://behavmedfoundation.org/wp-content/uploads/2019/10/test.png" group-title="TEST", HBO
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/1
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", HBO HITS
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://behavmedfoundation.org/wp-content/uploads/2019/10/test.png" group-title="TEST", HBO HITS
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/2
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", HBO SIGNATURE
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://behavmedfoundation.org/wp-content/uploads/2019/10/test.png" group-title="TEST", HBO SIGNATURE
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
 https://play.gachor99.my.id/roni/jimbaran/3
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="http://amstv.my.id/icon/indosiar.png" group-title="TEST", HBO FAMILY
