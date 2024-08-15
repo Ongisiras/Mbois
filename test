@@ -54,6 +54,23 @@ https://play-gachor.online/htv@lite/kjTECpmDmq/45|User-Agent=OTT Navigator/homet
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/warner.png" group-title="MOVIES",WARNER HD
 https://play-gachor.online/htv@lite/kjTECpmDmq/47|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
+=======movies=========
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg" group-title="MOVIES", Cinemax a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
+https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-logo="http://guki.my.id/logo/movie/rockenter.png" group-title="MOVIES", Rock Entertainment a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg" group-title="MOVIES",HBO a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
+https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
+
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_id.png" group-title="SPORTS INDO",beIN Sports 1 ID
 https://play-gachor.online/htv@lite/kjTECpmDmq/326|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_id.png" group-title="SPORTS INDO",beIN Sports 3 ID
