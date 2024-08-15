@@ -1,41 +1,36 @@
-#EXTINF:-1 tvg-id="Trans7" tvg-name="TRANS 7" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="NASIONAL AUTO",TRANS 7 B
-https://play-gachor.online/htv@lite/kjTECpmDmq/3|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",INDOSIAR
-https://play-gachor.online/htv@lite/kjTECpmDmq/1|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",SCTV
-https://play-gachor.online/htv@lite/kjTECpmDmq/2|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/nettv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID Auto",NET TV Auto Reso
+
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/nettv.png" group-title="LOKAL",NET TV Auto Reso
 https://play-gachor.online/htv@lite/kjTECpmDmq/13|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/trans7.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",TRANS 7 HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/trans7.png" group-title="LOKAL",TRANS 7 HD
 https://play-gachor.online/htv@lite/kjTECpmDmq/3|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-https://play-gachor.online/htv@lite/kjTECpmDmq/3|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/transtv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",TRANS TV HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/transtv.png" group-title="LOKAL",TRANS TV HD
 https://play-gachor.online/htv@lite/kjTECpmDmq/4|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="LOKAL",INDOSIAR HD
 https://play-gachor.online/htv@lite/kjTECpmDmq/5|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",SCTV HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="LOKAL",SCTV HD
 https://play-gachor.online/htv@lite/kjTECpmDmq/6|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rcti.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",RCTI HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rcti.png" group-title="LOKAL",RCTI HD
 https://play-gachor.online/htv@lite/kjTECpmDmq/7|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/mnctv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",MNC TV HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/mnctv.png" group-title="LOKAL",MNC TV HD
 https://play-gachor.online/htv@lite/kjTECpmDmq/8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/gtv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",GTV HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/9
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/inews.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",iNEWS HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/10
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/tvone.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",TV ONE HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/12
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/antv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",ANTV HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/11
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/nettv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",NET TV HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/13
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/metrotv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",METRO TV HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/14
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/kompastv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",KOMPAS TV HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/15
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rtv.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",RTV HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/16
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/beritasatu.png" group-title="ðŸ‡®ðŸ‡© LOKAL ID HD",BERITA SATU HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/gtv.png" group-title="LOKAL",GTV HD
+https://play-gachor.online/htv@lite/kjTECpmDmq/9|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/inews.png" group-title="LOKAL",iNEWS HD
+https://play-gachor.online/htv@lite/kjTECpmDmq/10|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/tvone.png" group-title="LOKAL",TV ONE HD
+https://play-gachor.online/htv@lite/kjTECpmDmq/12|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/antv.png" group-title="LOKAL",ANTV HD
+https://play-gachor.online/htv@lite/kjTECpmDmq/11|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/nettv.png" group-title="LOKAL",NET TV HD
+https://play-gachor.online/htv@lite/kjTECpmDmq/13|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/metrotv.png" group-title="LOKAL",METRO TV HD
+https://play-gachor.online/htv@lite/kjTECpmDmq/14|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/kompastv.png" group-title="LOKAL",KOMPAS TV HD
+https://play-gachor.online/htv@lite/kjTECpmDmq/15|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rtv.png" group-title="LOKAL",RTV HD
+https://play-gachor.online/htv@lite/kjTECpmDmq/16|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/beritasatu.png" group-title="LOKAL",BERITA SATU HD
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 
@@ -43,18 +38,42 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 //copy right by,@hometv menampilkan playlist >>> MOVIES
 //========================================================================
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="MOVIES",HBO HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/39
+https://play-gachor.online/htv@lite/kjTECpmDmq/39|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_sign.png" group-title="MOVIES",HBO SIGN HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/41
+https://play-gachor.online/htv@lite/kjTECpmDmq/41|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_hits.png" group-title="MOVIES",HBO HITS HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/40
+https://play-gachor.online/htv@lite/kjTECpmDmq/40|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_family.png" group-title="MOVIES",HBO FAMILY HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/42
+https://play-gachor.online/htv@lite/kjTECpmDmq/42|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemax.png" group-title="MOVIES",CINEMAX HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/43
+https://play-gachor.online/htv@lite/kjTECpmDmq/43|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop_indonesia.png" group-title="MOVIES",BIOSKOP INDONESIA HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/44
+https://play-gachor.online/htv@lite/kjTECpmDmq/44|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/flik.png" group-title="MOVIES",FLIK HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/45
+https://play-gachor.online/htv@lite/kjTECpmDmq/45|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/warner.png" group-title="MOVIES",WARNER HD
-https://play-gachor.online/htv@lite/kjTECpmDmq/47
+https://play-gachor.online/htv@lite/kjTECpmDmq/47|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_id.png" group-title="SPORTS INDO",beIN Sports 1 ID
+https://play-gachor.online/htv@lite/kjTECpmDmq/326|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_id.png" group-title="SPORTS INDO",beIN Sports 3 ID
+https://play-gachor.online/htv@lite/kjTECpmDmq/327|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WZg8WMGw2qHcw3D2l8yurQ", "kid":"Nn+b9NBoTxCddKnuto0yvg" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7r0ahjZ99sLEqtcLemFlqQ","kid":"q6yeC_K0SPiHEUWCnGin_Q"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="TLC (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/94/TLC_logo_2011.png" group-title="Entertainment & LifeStyle",TLC
+https://atemeshield1-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+#EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-url="" group-title="Entertainment & LifeStyle" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548",Citra Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2j4ZMR46PRR2B5caEByNww", "kid":"BctLvZHjTYWPaSHnGW93lQ" } ], "type":"temporary" }
+https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+
