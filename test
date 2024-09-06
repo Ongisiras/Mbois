@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1.id" tvg-logo="https://i.ytimg.com/vi/sf-b-ClHdPw/maxresdefault.jpg" group-title="KUALIFIKASI PILDUN", RCTI
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
+#EXTINF:-1 tvg-id="2.idid" tvg-logo="https://i.ytimg.com/vi/sf-b-ClHdPw/maxresdefault.jpg" group-title="KUALIFIKASI PILDUN", SOCCER CHANNEL
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+#EXTINF:-1 tvg-id="3.id.id" tvg-logo="https://i.ytimg.com/vi/sf-b-ClHdPw/maxresdefault.jpg" group-title="KUALIFIKASI PILDUN", SPORTSTART
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+#EXTINF:-1 tvg-id="4.id.id" tvg-logo="https://i.ytimg.com/vi/sf-b-ClHdPw/maxresdefault.jpg" group-title="KUALIFIKASI PILDUN", SPORTSTART 2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#EXTINF:-1 tvg-id="5.id" tvg-logo="https://i.ytimg.com/vi/sf-b-ClHdPw/maxresdefault.jpg" group-title="KUALIFIKASI PILDUN", INEWS
+https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8?c
+
 #EXTINF:-1  group-title="ID" tvg-id=" " tvg-logo=" ",Sportstars 1
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8
 
