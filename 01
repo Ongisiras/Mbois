@@ -306,6 +306,9 @@ https://cdnjkt4.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji
+http://iptvtree.net:8080/live/romaniamedia/f35da5aefe/298550.ts
+
 
 *****************************************************************************************************
 
