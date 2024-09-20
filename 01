@@ -2884,6 +2884,74 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 tvg-id="ABCAustralia.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/abc-australia.png " group-title="FTA International ",ABC Australia
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
+###############################  EPL #####################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="PREMIER LEAGUE", CH 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="PREMIER LEAGUE", CH 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="PREMIER LEAGUE", CH 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="PREMIER LEAGUE", CH 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep4.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg" group-title="PREMIER LEAGUE", CH 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Li/Ep5.m3u8
+
+
+#############################  BEIN SPORT  #################################
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben2.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben6.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben7.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN EXTRA 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra1.m3u8
+#EXTINF:-1 group-title="BEIN AUTO" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN EXTRA 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
+
+########################  BEIN ARAB  ###########################
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEIN|AR",beIN 1
+http://ktv.im:8080/kk56712/kk12345/49522
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEIN|AR",beIN 2
+http://ktv.im:8080/kk56712/kk12345/49523
+
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEIN|AR",beIN 3
+http://ktv.im:8080/kk56712/kk12345/49524
+
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEIN|AR",beIN 4
+http://ktv.im:8080/kk56712/kk12345/49525
+
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEIN|AR",beIN 5
+http://ktv.im:8080/kk56712/kk12345/49526
+
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="BEIN|AR",beIN 6
+http://ktv.im:8080/kk56712/kk12345/49527
+                 
+#EXTINF:-1 group-title="BEIN|AR" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
+http://ktv.im:8080/kk56712/kk12345/49528
+
+#EXTINF:-1 group-title="BEIN|AR" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
+http://ktv.im:8080/kk56712/kk12345/49529
+
+#EXTINF:-1 group-title="BEIN|AR" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
+http://ktv.im:8080/kk56712/kk12345/49530
+
+#EXTINF:-1 group-title="BEIN|AR" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN afc
+http://ktv.im:8080/kk56712/kk12345/49531
+
 
 ##########################     Sports   #######################################
 ********************************************************************************
