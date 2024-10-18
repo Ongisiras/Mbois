@@ -18,14 +18,29 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT", OPTUS 6 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="LIVE EVENT", True PL 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/TruePL1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="LIVE EVENT", True PL 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/TruePL2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="LIVE EVENT", True PL 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/TruePL3.m3u8
+
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrossp.png", ASTRO SUPERSPORT 1 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6590
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrossp.png", ASTRO SUPERSPORT 1 HD
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/AstroSS1.m3u8
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp2.png", ASTRO SUPERSPORT 2 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6589
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp2.png", ASTRO SUPERSPORT 2 HD
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/AstroSS2.m3u8
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp3.png", ASTRO SUPERSPORT 3 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6588
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp3.png", ASTRO SUPERSPORT 3 HD
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/AstroSS3.m3u8
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp4.png", ASTRO SUPERSPORT 4 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6592
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp4.png", ASTRO SUPERSPORT 4 HD
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/AstroSS4.m3u8
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp5.png", ASTRO SUPERSPORT 5 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400251884
 
