@@ -18,12 +18,59 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT", OPTUS 6 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
 
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="LIVE EVENT",Astro SuperSport 1_🇲🇾 STL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="LIVE EVENT",Astro SuperSport 2_🇲🇾 STL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://apk.androidtrex.com/play/live.php?mac=00:1A:79:F7:F2:C6&extension=ts&stream=1016545
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/59219
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="LIVE EVENT",Astro SuperSport 3_🇲🇾 STL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
+#EXTINF:-1 tvg-id="astrosupersport4.my"tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="LIVE EVENT",Astro SuperSport 4_🇲🇾 STL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
+#EXTINF:-1 tvg-id="astrosupersport5.my" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="LIVE EVENT",Astro SuperSport 5 _🇲🇾
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1713
+
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="LIVE EVENT",SuperSport PSL
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18532&extension=ts
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-nine-299.png" group-title="LIVE EVENT",SuperSport Premier League_🇿🇦
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-supersport-five-295.png" group-title="LIVE EVENT",SuperSport Football_🇿🇦
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="LIVE EVENT", True PL 1
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/TruePL1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="LIVE EVENT", True PL 2
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/TruePL2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="LIVE EVENT", True PL 3
 https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/TruePL3.m3u8
+
+#EXTINF:-1 tvg-ID="elevensports1.pt" tvg-name="[PT] ELEVEN SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/elevensports1.png" group-title="LIVE EVENT",ELEVEN SPORTS 1🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium455/index.m3u8
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/105656
+#EXTINF:-1 tvg-ID="elevensports2.pt" tvg-name="[PT] ELEVEN SPORTS 2  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports2.png" group-title="LIVE EVENT",ELEVEN SPORTS 2🇵🇹
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123805
+#EXTINF:-1 tvg-ID="elevensports3.pt" tvg-name="[PT] ELEVEN SPORTS  3  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports3.png" group-title="LIVE EVENT",ELEVEN SPORTS 3🇵🇹
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123806
+#EXTINF:-1 tvg-ID="elevensports4.pt" tvg-name="[PT] ELEVEN SPORTS 4  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports4.png" group-title="LIVE EVENT",ELEVEN SPORTS 4🇵🇹
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123807
+#EXTINF:-1 tvg-ID="elevensports5.pt" tvg-name="[PT] ELEVEN SPORTS 5  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports5.png" group-title="LIVE EVENT",ELEVEN SPORTS 5🇵🇹
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123808
+#EXTINF:-1 tvg-ID="elevensports6.pt" tvg-name="[PT] ELEVEN SPORTS 6  ◉ rec" tvg-logo="https://img.logo-cdn.cc/elevensports6.png" group-title="LIVE EVENT",ELEVEN SPORTS 6🇵🇹
+http://line.dnsdns5.com:80/mariusbuzila2/A1CC5C/123809
+
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/s-logo/630_e.png" group-title="LIVE EVENT", NOW Sports Prime🇭🇰
+https://live.hkdvb.com/hls/live/630.m3u8?token=680446446318360
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="LIVE EVENT", NOW Sports Premier League🇭🇰
+https://live.hkdvb.com/hls/live/621.m3u8?token=680446446318360
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="LIVE EVENT", NOW Sports 632 (La Liga)🇭🇰
+https://live.hkdvb.com/hls/live/632.m3u8?token=680446446318360
 
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrossp.png", ASTRO SUPERSPORT 1 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/6590
