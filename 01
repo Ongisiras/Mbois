@@ -144,6 +144,59 @@ https://raw.githubusercontent.com/B-inalm3u-Custom/New-Sport-Asia/B-inal22/Astro
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroassp5.png", ASTRO SUPERSPORT 5 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400251884
 
+#EXTINF:-1 tvg-id="AstroArena" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",ASTRO ARENA 1
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157485
+http://31.42.187.37:25461/watchpad13158/1234/286
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/170
+
+#EXTINF:-1 tvg-id="AstroArena2" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",ASTRO ARENA 2
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/287793
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/71076?play_token=shareext
+http://31.42.187.37:25461/watchpad13158/1234/336
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/171
+
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola
+http://31.42.187.37:25461/watchpad13158/1234/331
+#http://fixtv.shop:888/long/long/7947
+#http://mykingtv.net:2082/zaki880/8890/18863
+
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Arena Bola 2
+http://31.42.187.37:25461/watchpad13158/1234/332
+#http://fixtv.shop:888/long/long/7949
+#http://mykingtv.net:2082/zaki880/8890/18864
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League  
+http://31.42.187.37:25461/watchpad13158/1234/114
+#https://7pal.short.gy/astross1
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1722
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/166
+#http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5480
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Premier League 2
+http://31.42.187.37:25461/watchpad13158/1234/113
+#https://7pal.short.gy/astross2
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157556
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1721
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/167
+#http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5481
+
+#EXTINF:-1 tvg-id="AstroGrandstand" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Grandstand
+http://31.42.187.37:25461/watchpad13158/1234/112
+#https://7pal.short.gy/astross3
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1720
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/168
+#http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5482
+
+#EXTINF:-1 tvg-id="AstroFootball" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="Astro;Sports" group-logo="https://pictr.com/images/2023/04/18/Eni92r.png",Astro Football
+http://31.42.187.37:25461/watchpad13158/1234/111
+#https://7pal.short.gy/astross4
+#http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
+#http://muka03.wanicelife.com:8880/D12m2370/88152514/1719
+#https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/169
+#http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/5483
+
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL4fRL6x9poEVU3020u62P9wK6AozOArSmUA&s" group-title="EMTEK"
 #EXTINF:-1 tvg-logo="https://images.tokopedia.net/img/KRMmCm/2022/11/18/764205b5-0919-4a9a-8826-bab133aa796d.jpg" group-title="EMTEK", INDOSIAR 1
