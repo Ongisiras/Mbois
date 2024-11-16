@@ -2,6 +2,24 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,"refresh="3600"
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/F2D9FpU.png" group-title="Tyson vs Paul",Live 001
+http://client.newborne.xyz:80/374220/r9KcJf6r3/92131
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/F2D9FpU.png" group-title="Tyson vs Paul",Live 002
+http://client.newborne.xyz:80/374220/r9KcJf6r3/92132
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/F2D9FpU.png" group-title="Tyson vs Paul",Live 003
+http://client.newborne.xyz:80/374220/r9KcJf6r3/92133
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/F2D9FpU.png" group-title="Tyson vs Paul",Live 004
+http://51.222.111.105:25461/play/-pb0qbnXcE6fb9eevx4hvsQYJiv9BZ6K8duBGREWaH8/ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/F2D9FpU.png" group-title="Tyson vs Paul",Live 005
+http://51.222.111.105:25461/play/-pb0qbnXcE6fb9eevx4hvtjzbiUFeUmNn4q2nC0Xvuo/ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/F2D9FpU.png" group-title="Tyson vs Paul",Live 006
+http://client.newborne.xyz/374220/r9KcJf6r3/92132
+
 
 #EXTINF:-1 tvg-id="sport1plus.de" tvg-name="DE: SPORT1+ FHD" tvg-logo="https://i.pinimg.com/236x/56/ca/43/56ca434aa49fc1f11c7a7558561bc677.jpg" group-title="🔴 LIVE EVENT", SPORT1+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
