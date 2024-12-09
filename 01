@@ -8,6 +8,17 @@
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd
 
+#EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://playidtv24.vercel.app/stream/now/premier1.m3u8
+#EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png", True Premier football 2
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://playidtv24.vercel.app/stream/now/premier2.m3u8
+#EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True PremierHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidtv24.vercel.app/stream/now/premier3.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10" group-title="🔴 LIVE EVENT", Sky SPORTS 1
 http://gcf.nrslist.com/TVD017/index.mpd
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg" group-title="🔴 LIVE EVENT", Bein Sports 2
