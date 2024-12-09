@@ -436,6 +436,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath" tvg-name="Thairath" group-title="AFF CUP 2024" tvg-logo="https://media-mvtv-app.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png",Thairath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://hls-nginx.v2h-cdn.com/hls/thairathmyStream.m3u8
+
 
 #EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" group-title="AFF CUP 2024" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
