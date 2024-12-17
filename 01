@@ -8,6 +8,11 @@
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-016/stream.mpd
 
+#EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-logo="https://imageservice.disco.peacocktv.com/pcms/637b6928-b0fc-11ef-86c2-fbc6885b7552/AGG_SOURCE?proposition=NBCUOTT&language=eng&versionId=214e45a6-33d6-5e74-893d-10f80bc71255&territory=US",Liverpool v. Fulham (Español)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00227ca0e6d1e11de5c090beb6dfc2b8:59d6bf26b27d89338182e03f5afce534
+https://g006-sle-us-cmaf-prd-ak.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5015412-716874-48fbde4b54a)/master.mpd
+
 #EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://playidtv24.vercel.app/stream/now/premier1.m3u8
