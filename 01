@@ -18,14 +18,6 @@ https://playidtv24.vercel.app/stream/now/premier2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 https://playidtv24.vercel.app/stream/now/premier3.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ci5w-LhInBpnp2F5HIOqYtbrqfAPj-EyXPcc8okfWnfuDzoRxsJT3u8j&s=10" group-title="🔴 LIVE EVENT", Sky SPORTS 1
-http://gcf.nrslist.com/TVD017/index.mpd
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/t_673_bein_sports.jpg" group-title="🔴 LIVE EVENT", Bein Sports 2
-http://gcf.nrslist.com:80/TVD4002/index.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmO47YFVBD1I4Qycf2z_3h0CM2vwAulEOpJrP6nWiuyzrvVD6FetIKYaj&s=10" group-title="🔴 LIVE EVENT", Cosmote Sport HL
-http://gcf.nrslist.com/TVD4079/index.mpd
-
 #EXTINF:-1 tvg-id="sport1plus.de" tvg-name="DE: SPORT1+ FHD" tvg-logo="https://i.pinimg.com/236x/56/ca/43/56ca434aa49fc1f11c7a7558561bc677.jpg" group-title="🔴 LIVE EVENT", SPORT1+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
