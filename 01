@@ -1,6 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,"refresh="3600"
 
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="🔴 LIVE EVENT",LIVE SPORTS SCTV
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="🔴 LIVE EVENT",LIVE SPORTS RCTI
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
+
 #EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", ARENA SPORT PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
