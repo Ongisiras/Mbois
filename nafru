@@ -278,6 +278,97 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch106.m3u8
 
+########################
+####### SPORTS  ########
+########################
+
+#EXTINF:-1 tvg-id="bein1" group-title="Olahraga" tvg-name="beIN Sports 1" tvg-logo="https://cdn.urfan.id/logo/beinsports.png", | beIN Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.mpd?hash=9124b4c09733e59f101c0772cbad9528150613b27d4941e31cb9be064b8e968c
+
+#EXTINF:-1 tvg-id="bein2" group-title="Olahraga" tvg-name="beIN Sports 2" tvg-logo="https://cdn.urfan.id/logo/beinsports.png", | beIN Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.mpd?hash=28c892a003b7c95b54f8a19afd93ce71ded757de2f10627874b1499ad53de0d5
+
+#EXTINF:-1 tvg-id="bein3" group-title="Olahraga" tvg-name="beIN Sports 3" tvg-logo="https://cdn.urfan.id/logo/beinsports.png", | beIN Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.mpd?hash=31061c482e97fa730a277ab7ff185701834e2ab1786716b5705a8c6830daf592
+
+#EXTINF:-1 tvg-id="Soccer Channel.id" group-title="Olahraga" tvg-name="Soccer Channel" tvg-logo="https://cdn.urfan.id/logo/soccer.png", | Soccer Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.mpd?hash=89558cebaf9317e3d9f447361c7a35460c145aeb5c5904e60d0df8a8a48689aa
+
+#EXTINF:-1 tvg-id="SPOTV.id" group-title="Olahraga" tvg-name="SPOTV" tvg-logo="https://cdn.urfan.id/logo/spotv.png", | SPOTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.mpd?hash=0f4486d9a57e5c211912782825f64a17a4f5181f3f265c5e7614111db059b86f
+
+#EXTINF:-1 tvg-id="SPOTV 2.id" group-title="Olahraga" tvg-name="SPOTV 2" tvg-logo="https://cdn.urfan.id/logo/spotv2.png", | SPOTV 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.mpd?hash=8273c0a6919b192ff6a94b6122416a27383876e07da4383d46e83b5330f350d9
+
+#EXTINF:-1 tvg-id="Sportstars.id" group-title="Olahraga" tvg-name="Sportstars" tvg-logo="https://cdn.urfan.id/logo/sportstars.png", | Sportstars
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.mpd?hash=2636ee96271ca5b95a68076a900fd9b56b841bfce4cf4aab1a1471e94974053b
+
+#EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
+
+#EXTINF:-1 tvg-id="Fight Sport.id" group-title="Olahraga" tvg-name="Fight Sports HD" tvg-logo="https://cdn.urfan.id/logo/fightsports.png", | Fight Sports HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.mpd?hash=b52214d626c29bc1a9c6e41132974115a7a8e009e4e7ee1ae09dc54e24e74d26
+
+#EXTINF:-1 tvg-id="Fight Sport.id" group-title="Olahraga" tvg-name="Fight Sports" tvg-logo="https://cdn.urfan.id/logo/fightsports.png", | Fight Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
+http://code-app.web.id/play.m3u8?hash=28fb9bce145c33d1ff133cb6fa5d16b637f1121177e1bb231a2b26b37f5f9001
 
 
 ########################
