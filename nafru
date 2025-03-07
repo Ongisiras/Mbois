@@ -278,6 +278,22 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch106.m3u8
 
+######################################################################
+===============            HBO          ======================
+######################################################################
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg",HBO
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg",HBO HITS
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg",HBO FAMILY
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg",HBO SIGNATURE
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg",CINEMAX
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+
+
+
 ########################
 ####### SPORTS  ########
 ########################
@@ -1546,6 +1562,19 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 ###########################
 ######## GAYA HIDUP #######
 ###########################
+
+#EXTINF:-1 group-title="Gaya Hidup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurS1bJT0PdutitqFOVOfYbJnN98aSzvuRMQ&s",Asian Food Network
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WZg8WMGw2qHcw3D2l8yurQ", "kid":"Nn+b9NBoTxCddKnuto0yvg" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+
+#EXTINF:-1 group-title="Gaya Hidup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYCMNTtG5Km5vgG7uNQWL0cdWphqyZUttLw&s",HGTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q", "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+
 
 #EXTINF:-1 group-title="Gaya Hidup" tvg-id="celebrities.id" tvg-logo="https://iptv.urfan.web.id/logo/celebrities.png",Celebrities TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
