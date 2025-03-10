@@ -207,36 +207,7 @@ https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PONTV.id" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png " group-title="NASIONAL ",PONTV
 https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/hyShPmQ/setantasp1.png" group-title="🔴 LIVE EVENT", SETANTA SPORTS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
-https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
-#EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-logo="https://i.pinimg.com/236x/dd/7a/94/dd7a94d92ecf53bb3e56de4f7dcff80f.jpg", ARENA SPORT PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
-#EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-logo="https://i.imgur.com/RUuK4yQ.png", TRUE PREMIER LEAGUE 1
-http://202.62.56.28:8080/nl.m3u8?id=1061
-
-#EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-logo="https://i.imgur.com/EGgbpmt.png", TRUE PREMIER LEAGUE 2
-http://202.62.56.28:8080/nl.m3u8?id=1065
-
-#EXTINF: -1  tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="🔴 LIVE EVENT", TRUE PREMIER LEAGUE 3
-http://myserver.myphuket.net:25461/test2/test2/28
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="🔴 LIVE EVENT",ASTRO PREMIER LEAGUE
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F1.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/65/49/e3/6549e3981f8cfdbca4029189d0038766.jpg" group-title="🔴 LIVE EVENT",ASTRO PREMIER LEAGUE 2
-https://raw.githubusercontent.com/ayahdee/-/refs/heads/main/P%C2%AE%EF%B8%8F%C2%A3%CF%80%CF%80%C2%A1%C2%A3%C2%AE%EF%B8%8F2.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Asp2.m3u8
 
 #EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -257,42 +228,28 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fQSmk0y/go3sport1.png" group-title="🔴 LIVE EVENT", GO3 SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/wwe-peacock.png" group-title="🔴 LIVE EVENT",WWE  Peacook
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vZ3pSq8/go3sport2.png" group-title="🔴 LIVE EVENT", GO3 SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/McNdZnx/go3sport3.png" group-title="🔴 LIVE EVENT", GO3 SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/JQXQfyq/go3sportopen.png" group-title="🔴 LIVE EVENT", GO3 SPORT OPEN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
-https://tr.live.cdn.cgates.lt/live/dash/561402/index.mpd
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="🔴 LIVE EVENT",Astro.PL.1
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/1722
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="🔴 LIVE EVENT",Astro.P.L.2
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/1721
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="🔴 LIVE EVENT",Astro Football
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/1719
 
 #EXTINF:-1 group-title="🔴 LIVE EVENT" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", GO3 SPORT EXTRA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
 https://cdn9.tvplayhome.lt/live/eds2/VIP1/GO3_LIVE_DASH_AVC/VIP1.mpd
 
-#EXTINF:-1 group-title="🔴 LIVE EVENT" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Go3_Sport.svg/1200px-Go3_Sport.svg.png", GO3 SPORT EXTRA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:dbb490040f3fece7959603e46e8314ab
-https://cdn9.tvplayhome.lt/live/eds2/VIP2/GO3_LIVE_DASH_AVC/VIP2.mpd
+#EXTINF:-1 tvg-id="SuperSports Premier League" tvg-logo="https://www.dstv.com/media/puxctgsq/ss_premier-league.png" group-title="🔴 LIVE EVENT",SuperSports Premier League
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/SupSpl.m3u8
 
 #EXTINF:1, group-title="🔴 LIVE EVENT",OPTUS SPORT LIVE
 http://ts1.supports.top:2082/play/live.php?mac=00:1A:79:7E:2C:A9&stream=306274&extension=ts&play_token=drFgrsHh3i
