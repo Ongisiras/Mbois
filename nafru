@@ -1316,22 +1316,14 @@ http://code-app.web.id/play.mpd?hash=0f4486d9a57e5c211912782825f64a17a4f5181f3f2
 http://code-app.web.id/play.mpd?hash=8273c0a6919b192ff6a94b6122416a27383876e07da4383d46e83b5330f350d9
 
 #EXTINF:-1 tvg-id="Sportstars.id" group-title="Olahraga" tvg-name="Sportstars" tvg-logo="https://cdn.urfan.id/logo/sportstars.png", | Sportstars
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
-http://code-app.web.id/play.mpd?hash=2636ee96271ca5b95a68076a900fd9b56b841bfce4cf4aab1a1471e94974053b
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
-http://code-app.web.id/play.mpd?hash=10f51ae4cac67740dd2174a2002878a86336d26d08a8fc82b3c6a341e729cb2a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="Fight Sport.id" group-title="Olahraga" tvg-name="Fight Sports HD" tvg-logo="https://cdn.urfan.id/logo/fightsports.png", | Fight Sports HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
