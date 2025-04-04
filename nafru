@@ -965,40 +965,37 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 ######################################################################
 ===============            HBO          ======================
 ######################################################################
-#EXTINF:-1 group-title="HBO" tvg-id="HBOFamily.id" tvg-logo="https://cdn.urfan.id/logo/hbofam.png",HBO Family
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://i.ibb.co.com/LgqX1qJ/hbo.png" group-title="HBO" , HBO TRANS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
-#EXTVLCOPT:http-referrer=http://cubmu.com
-https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd|referrer=https://www.cubmu.com/
 
-#EXTINF:-1 group-title="HBO" tvg-id="HBOSignature.id" tvg-logo="https://cdn.urfan.id/logo/hbosign.png",HBO Signature
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="HBO" tvg-id="hbohitsasia.sg" tvg-logo="https://i.ibb.co.com/L9myfz5/hbohits.png", HBO Hits TRANS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
-#EXTVLCOPT:http-referrer=http://cubmu.com
-https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd|referrer=https://www.cubmu.com/
 
-#EXTINF:-1 group-title="HBO" tvg-id="HBOHits.id" tvg-logo="https://cdn.urfan.id/logo/hbohits.png",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="HBO" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.ibb.co.com/dLR3Sqq/hbofamily.png",HBO Family TRANS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
-#EXTVLCOPT:http-referrer=http://cubmu.com
-https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd|https://www.cubmu.com/
 
-#EXTINF:-1 group-title="HBO" tvg-id="HBO.id" tvg-logo="https://cdn.urfan.id/logo/hbo.png",HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="HBO" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.ibb.co.com/nLwxYL5/hbosignatur.png",HBO Signature TRANS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
-#EXTVLCOPT:http-referrer=http://cubmu.com
-https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd|referrer=https://www.cubmu.com/
 
-#EXTINF:-1 group-title="HBO" tvg-id="Cinemax.id" tvg-logo="https://cdn.urfan.id/logo/cinemax.png",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="HBO" tvg-id="cinemaxasia.sg" tvg-logo="https://i.ibb.co.com/0chM7YL/cinemax.png",CINEMAX TRANS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
-#EXTVLCOPT:http-referrer=http://cubmu.com
-https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd|referrer=https://www.cubmu.com/
+
 
 #EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg",HBO
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
