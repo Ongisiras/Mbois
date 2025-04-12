@@ -205,6 +205,9 @@ https://zekonew.newkso.ru/zeko/premium758/mono.m3u8|Referer=https://kisskissplay
 #EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-1.png" group-title="MOTO GP & F1",DAZN 1 Spain
 https://windnew.newkso.ru/wind/premium445/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
 
+#EXTINF:-1 tvg-id="MAXSport2(src01).bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/max-sport-2-bulgaria.png" group-title="MOTO GP & F1",Max Sport 2 Bulgaria
+https://windnew.newkso.ru/wind/premium473/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
 ############################   LIVE EVENT  #############################
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-1.png" group-title="🔴 LIVE EVENT",Astro SuperSport 1
@@ -239,6 +242,9 @@ https://playidtv24.vercel.app/stream/now/premier4.m3u8
 #EXTVLCOPT:http-referrer=https://7mthai.net
 #https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
 https://playidtv24.vercel.app/stream/now/premier5.m3u8
+
+#EXTINF:-1 tvg-id="Nova.Sport.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/nova-sport-bulgaria.png" group-title="🔴 LIVE EVENT",Nova Sport Bulgaria
+https://windnew.newkso.ru/wind/premium468/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
 
 #EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-calcio-it.png" group-title="🔴 LIVE EVENT",Sky Sport Calcio Italy
 https://windnew.newkso.ru/wind/premium870/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
