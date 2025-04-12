@@ -288,6 +288,18 @@ https://flv.intechmedia.net/live/ch106.m3u8
 
 ############################################################
 ########################  SPORTS  ##########################
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="SPORTS",SpoTV 1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="SPORTS",SpoTV 2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
 #EXTINF:-1 group-title="SPORTS" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Premier League TV - Peacock
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -306,6 +318,31 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-1.png" group-title="SPORTS",Astro SuperSport 1
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-2.png" group-title="SPORTS",Astro SuperSport 2
+https://windnew.newkso.ru/wind/premium124/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-3.png" group-title="SPORTS",Astro SuperSport 3
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-4.png" group-title="SPORTS",Astro SuperSport 4
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-1-usa.png" group-title="SPORTS",Fox Sports 1 USA
+https://zekonew.newkso.ru/zeko/premium39/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-ar.png" group-title="SPORTS",Fox Sports 2 Argentina
+https://windnew.newkso.ru/wind/premium788/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-usa.png" group-title="SPORTS",Fox Sports 2 USA
+https://zekonew.newkso.ru/zeko/premium758/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-6.png" group-title="SPORTS",BeIN SPORTS USA
+https://zekonew.newkso.ru/zeko/premium425/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.ibb.co.com/SBCm5M8/universo.png" group-title="SPORTS", UNIVERSO EAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
