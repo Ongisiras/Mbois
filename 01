@@ -166,33 +166,49 @@ https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=1561&type=hls
 
 
 ################  MOTO GP ################
-#EXTINF:-1 tvg-id="sky sport motogp" tvg-name="Sky Sport MotoGP " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="MOTO GP", Sky Sport MotoGP  (D)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://kisskissplay.cfd
-https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-motogp-it.png" group-title="MOTO GP & F1",Sky Sport MotoGP Italy
+https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
 
-#EXTINF:-1 tvg-id="sky sport f1" tvg-name="Sky Sport F1 " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="MOTO GP", Sky Sport F1  (D)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://kisskissplay.cfd
-https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.F1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-f1-de.png" group-title="MOTO GP & F1",Sky Sports F1 DE
+https://windnew.newkso.ru/wind/premium274/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
 
-#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-racing-uk.png" group-title="MOTO GP",Sky Sports Racing UK
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="MOTO GP & F1",Sky Sports F1 UK
+https://windnew.newkso.ru/wind/premium60/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-f1-it.png" group-title="MOTO GP & F1",Sky Sport F1 Italy
+https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="SkySp.Racing.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-racing-uk.png" group-title="MOTO GP & F1",Sky Sports Racing UK
 https://windnew.newkso.ru/wind/premium554/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
 
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-f1.png" group-title="MOTO GP & F1",DAZN F1 ES
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="MOTO GP",SpoTV 1
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="MOTO GP & F1",SpoTV 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="MOTO GP",SpoTV 2
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="MOTO GP & F1",SpoTV 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+############################   LIVE EVENT  #############################
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-1.png" group-title="🔴 LIVE EVENT",Astro SuperSport 1
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-2.png" group-title="🔴 LIVE EVENT",Astro SuperSport 2
+https://windnew.newkso.ru/wind/premium124/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-3.png" group-title="🔴 LIVE EVENT",Astro SuperSport 3
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-4.png" group-title="🔴 LIVE EVENT",Astro SuperSport 4
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
 
 
 #EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premiere Football 1
@@ -214,6 +230,15 @@ https://playidtv24.vercel.app/stream/now/premier4.m3u8
 #EXTVLCOPT:http-referrer=https://7mthai.net
 #https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
 https://playidtv24.vercel.app/stream/now/premier5.m3u8
+
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sport-calcio-it.png" group-title="🔴 LIVE EVENT",Sky Sport Calcio Italy
+https://windnew.newkso.ru/wind/premium870/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="MovistarLaLiga(Spanish).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/movistar-laliga.png" group-title="🔴 LIVE EVENT",Movistar Laliga
+https://windnew.newkso.ru/wind/premium84/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/laliga-tv-hypermotion.png" group-title="#EXTINF:-1 tvg-id="MovistarLaLiga(Spanish).es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/movistar-laliga.png" group-title="🔴 LIVE EVENT",Movistar Laliga",LALIGA TV Hypermotion
+https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
 
 #EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2756,6 +2781,62 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="beIN SPORTS 5 - [Channel 313].id" tvg-logo="https://iili.io/JhkQzk7.png" group-title="SPORTS",beIN Sports 5 Indonesia
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+
+############################  DAZN SPORT  ##########################
+
+#EXTINF:-1 tvg-id="DAZN.1.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-1.png" group-title="DAZN SPORT",DAZN 1 Bar DE
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-1.png" group-title="DAZN SPORT",DAZN 1 Spain
+https://windnew.newkso.ru/wind/premium445/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="DAZN.2.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-2.png" group-title="DAZN SPORT",DAZN 2 Bar DE
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-2.png" group-title="DAZN SPORT",DAZN 2 Spain
+https://zekonew.newkso.ru/zeko/premium446/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-3.png" group-title="DAZN SPORT",DAZN 3 Spain
+https://zekonew.newkso.ru/zeko/premium447/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-4.png" group-title="DAZN SPORT",DAZN 4 Spain
+https://zekonew.newkso.ru/zeko/premium448/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-f1.png" group-title="DAZN SPORT",DAZN F1 ES
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-laliga.png" group-title="DAZN SPORT",DAZN LaLiga
+https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/dazn-laliga-2.png" group-title="DAZN SPORT",DAZN LaLiga 2
+https://windnew.newkso.ru/wind/premium43/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+
+######################  ELEVEN SPORT  ###############################
+#EXTINF:-1 tvg-id="Eleven.Sports.1.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eleven-sports-1.png" group-title="ELEVEN SPORT",Eleven Sports 1 Poland
+https://windnew.newkso.ru/wind/premium71/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="ElevenSports1(src01).pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eleven-sports-1.png" group-title="ELEVEN SPORT",Eleven Sports 1 Portugal
+https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eleven-sports-2.png" group-title="ELEVEN SPORT",Eleven Sports 2 Poland
+https://windnew.newkso.ru/wind/premium72/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="ElevenSports2(src01).pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eleven-sports-2.png" group-title="ELEVEN SPORT",Eleven Sports 2 Portugal
+https://windnew.newkso.ru/wind/premium456/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="Eleven.Sports.3.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eleven-sports-3.png" group-title="ELEVEN SPORT",Eleven Sports 3 Poland
+https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="ElevenSports3(src01).pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eleven-sports-3.png" group-title="ELEVEN SPORT",Eleven Sports 3 Portugal
+https://windnew.newkso.ru/wind/premium457/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="ElevenSports4(src01).pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eleven-sports-4.png" group-title="ELEVEN SPORT",Eleven Sports 4 Portugal
+https://windnew.newkso.ru/wind/premium458/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
+#EXTINF:-1 tvg-id="ElevenSports5(src01).pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eleven-sports-5.png" group-title="ELEVEN SPORT",Eleven Sports 5 Portugal
+https://windnew.newkso.ru/wind/premium459/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
+
 
 ###############################   VOD HORROR  ##################################
 #EXTINF:-1 tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/06/film-wild-eyed-and-wicked-2024-lk21-d21.jpg.webp" group-title="🔴HOROR THRILER",Wild Eyed and Wicked (2024) 
