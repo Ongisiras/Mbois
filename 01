@@ -53,6 +53,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iili.io/JMp3wV1.png" group-title="NASIONAL",Indosiar
 http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4646
 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="NASIONAL",Indosiar (live)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
+
+
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="NASIONAL",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -168,6 +172,8 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=1561&type=hls
+
+
 
 
 ################  MOTO GP ################
@@ -780,6 +786,26 @@ https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 
 ############################ INDIHOME #####################################################################################################################################################
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="INDIHOME",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="INDIHOME",GTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="INDIHOME",MNCTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="INDIHOME",INEWS (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
