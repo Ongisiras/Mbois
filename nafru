@@ -71,6 +71,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-id="Indosiar.id" tvg-logo="https://cdn.urfan.id/logo/indosiar.png",Indosiar HD
+https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
+
+#EXTINF:-1 group-title="Nasional" tvg-id="Indosiar.id" tvg-logo="https://cdn.urfan.id/logo/indosiar.png",Indosiar HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -80,6 +83,9 @@ https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 group-title="Nasional" tvg-id="MOJI.id" tvg-logo="https://cdn.urfan.id/logo/moji.png",Moji HD
+https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-id="MOJI.id" tvg-logo="https://cdn.urfan.id/logo/moji.png",Moji HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -304,6 +310,78 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 #EXTINF:-1 group-title="Nasional" tvg-id="seatoday.id" tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png",SEA TODAY
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch106.m3u8
+
+##################   TV DIGITAL  ###################
+####################################################
+
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="TV DIGITAL",MOJI 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
+#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHLP5JRah115Nwa1mG6JlOT
+
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/mnctv.png" group-title="TV DIGITAL",MNCTV
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
+
+#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/trans%207.png",Trans 7 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TransTv.png" group-title="TV DIGITAL",Trans TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/indosiar.png" group-title="TV DIGITAL",INDOSIAR
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/sctv.png" group-title="TV DIGITAL",SCTV
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
+#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF03Gl-n7DGhPYlZqbpRa7H
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/rcti.png" group-title="TV DIGITAL",RCTI
+#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png" group-title="TV DIGITAL",MDTV HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
+
+
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/nusantara_tv.png" group-title="TV DIGITAL",Nusantara TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="TV DIGITAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/tv_one.png",TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+###https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/metro.png" group-title="TV DIGITAL", Metro TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
+
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/kompas.png" group-title="TV DIGITAL",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
+###https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/cnbc.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="TV DIGITAL",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/atv.png" group-title="TV DIGITAL",ATV 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29899.m3u8
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/History.png" group-title="TV DIGITAL",History FHD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
 
 ############################################################
 ########################  SPORTS  ##########################
@@ -2853,27 +2931,26 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 ########################
 
 #EXTINF:-1 tvg-id="Sportstars.id" group-title="Olahraga" tvg-name="Sportstars" tvg-logo="https://cdn.urfan.id/logo/sportstars.png", | Sportstars
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=112
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 #EXTINF:-1 tvg-id="Sportstars 2.id" group-title="Olahraga" tvg-name="Sportstars 2" tvg-logo="https://cdn.urfan.id/logo/sportstars2.png", | Sportstars 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="Olahraga",Sportstars 2 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referrer=https://visionplus.id/
-
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-logo="https://bingkaiwarta.co.id/wp-content/uploads/2021/09/logo-BRI-Liga-1_ff95_mid.jpg"group-title="Olahraga", Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Olahraga",BEIN SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2922,7 +2999,6 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
-
 #EXTINF:-1 group-title="Olahraga" tvg-id="Soccer Channel.id" tvg-logo="https://cdn.urfan.id/logo/soccer.png",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
@@ -2930,6 +3006,11 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="Olahraga" tvg-id="Soccer Channel.id" tvg-logo="https://cdn.urfan.id/logo/soccer.png",Soccer Channel HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=115&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTINF:-1 group-title="Olahraga" tvg-id="SPOTV.id" tvg-logo="https://cdn.urfan.id/logo/spotv.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
