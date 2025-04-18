@@ -704,6 +704,42 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
+
+##########################   TV KOREA  ####################
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIassJXBlkU6-8OkAqMCZysRXf9A5xogmFXTaNApCfwDnb8okKc45Y86FGvYjQl__Uq-vk6D6_F9MlLEgnCyct1upWFKuaCRyRxQ9-vKtWH4tB4gLQpjPVAwArGYJSH3pp5nwC6PgvjsbDf_cjLJdob05vJ4tlOPbgpZzjcOB5oNiygnDwQsiQqIQIU2Q/s700/TVN.png" group-title="Korea TV",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1 group-title="Korea TV" tvg-id="tvnmoviesasia.hk" tvg-logo="https://iptv.urfan.web.id/logo/tvnmovies.png",tvN Movies
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
+#EXTINF:-1 tvg-id="" group-title="Korea TV" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png",ONE
+https://cempedak-cdn-fly.mncnow.id/live/eds/SetOne/sa_dash/SetOne.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
+#EXTINF:-1 tvg-id="" group-title="Korea TV" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png",ONE HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png" group-title="Korea TV+",One
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPGEqVF3rZXTGTZRZ-lb33AjtvfXMWTxL6kh5VeqQNz9bccId3__qi2tOw0lZ6VVkn8cO9SmrvfVVzKOIhq2qFQ8dMiQUgTjnd4kY7IJOfN2mqKj-5Q5yXTFU7Fo4qHCIJJm2weaofeQiBI1O-LhvsPKSBuK4_8sJZrhlri6L-jApSjsHtD-Fm3nj3T7Po/s700/K-PLUS.png" group-title="Korea TV",K-PLUS
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c
+
 ############################ INDIHOME #####################################################################################################################################################
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
@@ -2174,39 +2210,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 #EXTINF:-1 tvg-id="DreamWorks.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/dreamworks.png " group-title="KIDS  ",DreamWorks
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
-##########################   TV KOREA  ####################
-
-#EXTINF:-1 tvg-id="Kplus.id" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="Korea TV",K Plus
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/18.m3u8
-#EXTINF:-1 tvg-id="SonyOne.id" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="Korea TV",Sony ONE
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/19.m3u8
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="TVN ID" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" group-title="Korea TV",TVN ID
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/767.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="S GEM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" group-title="Korea TV",S GEM HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/770.m3u8
-#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="tVN Movies HD" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="Korea TV",tVN Movies HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KBS World HD" tvg-logo="" group-title="Korea TV",KBS World HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/15057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drama Korea LBS" tvg-logo="" group-title="Korea TV",Drama Korea LBS
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35769.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIassJXBlkU6-8OkAqMCZysRXf9A5xogmFXTaNApCfwDnb8okKc45Y86FGvYjQl__Uq-vk6D6_F9MlLEgnCyct1upWFKuaCRyRxQ9-vKtWH4tB4gLQpjPVAwArGYJSH3pp5nwC6PgvjsbDf_cjLJdob05vJ4tlOPbgpZzjcOB5oNiygnDwQsiQqIQIU2Q/s700/TVN.png" group-title="Korea TV",TVN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
- 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfiRKtaOrYeB6Sn0TilWAI3ljXtIz2LZRu77qiSgJDzNQd8aub2infSfcgJRerRX_g460_V3lT3IdpOb_YGwqkvUK072gaP9KjES4Adlw93eB7X_mbgDse_6dzRAd1L-9HLemKCCkUb0WpVr5PmJOHdiDGe1QdcP_KIMRxTlNM1MiqYX0ujI7PnDaS0Hf_/s700/ONE.png" group-title="Korea TV",ONE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPGEqVF3rZXTGTZRZ-lb33AjtvfXMWTxL6kh5VeqQNz9bccId3__qi2tOw0lZ6VVkn8cO9SmrvfVVzKOIhq2qFQ8dMiQUgTjnd4kY7IJOfN2mqKj-5Q5yXTFU7Fo4qHCIJJm2weaofeQiBI1O-LhvsPKSBuK4_8sJZrhlri6L-jApSjsHtD-Fm3nj3T7Po/s700/K-PLUS.png" group-title="Korea TV",K-PLUS
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c
 
 ###########################   ENTERTINMENT    ##############################
 #########################################################################3##
