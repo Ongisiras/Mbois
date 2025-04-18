@@ -706,17 +706,45 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
 
 ##########################   TV KOREA  ####################
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIassJXBlkU6-8OkAqMCZysRXf9A5xogmFXTaNApCfwDnb8okKc45Y86FGvYjQl__Uq-vk6D6_F9MlLEgnCyct1upWFKuaCRyRxQ9-vKtWH4tB4gLQpjPVAwArGYJSH3pp5nwC6PgvjsbDf_cjLJdob05vJ4tlOPbgpZzjcOB5oNiygnDwQsiQqIQIU2Q/s700/TVN.png" group-title="Korea TV",TVN
+#EXTINF:-1 group-title="Korea TV"  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN (i)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 
-#EXTINF:-1 group-title="Korea TV" tvg-id="tvnmoviesasia.hk" tvg-logo="https://iptv.urfan.web.id/logo/tvnmovies.png",tvN Movies
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+#EXTINF:-1 group-title="Korea TV" tvg-logo="_______", TVN MOVIES (i)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="Korea TV",Tvn Movies
+https://cempedak-cdn-fly.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="Korea TV",Tvn Movies
+https://cempedak-cdn-fly.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korea TV",TvN movies HD (f)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
+https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+
+#EXTINF:-1 group-title="Korea TV" tvg-logo="https://static.mncnow.id/images/channel/3ad70848/b686_r32.jpg",ONE (f)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
+https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+
+#EXTINF:-1 group-title="Korea TV"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM (i)
+https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
@@ -732,13 +760,24 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png" group-title="Korea TV+",One
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png" group-title="Korea TV",One
 https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPGEqVF3rZXTGTZRZ-lb33AjtvfXMWTxL6kh5VeqQNz9bccId3__qi2tOw0lZ6VVkn8cO9SmrvfVVzKOIhq2qFQ8dMiQUgTjnd4kY7IJOfN2mqKj-5Q5yXTFU7Fo4qHCIJJm2weaofeQiBI1O-LhvsPKSBuK4_8sJZrhlri6L-jApSjsHtD-Fm3nj3T7Po/s700/K-PLUS.png" group-title="Korea TV",K-PLUS
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="Korea TV",KBS WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
+https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
+
+#EXTINF:-1 group-title="Korea TV" tvg-logo="https://w7.pngwing.com/pngs/399/929/png-transparent-sbs-broadcasting-hd-logo-thumbnail.png",SBSTV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Korea TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
+https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
 
 ############################ INDIHOME #####################################################################################################################################################
 
