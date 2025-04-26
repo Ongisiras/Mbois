@@ -1,10 +1,6 @@
-#EXTM3U url=""
-# ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-04-24 10:04:00 GMT+7 "
-# (●) Service: Vision+
-# (●) Total Channels: 70
-# (●) Created by: Just Stupid People
-# ――――――――――――――――――――――――――――――――――――――――――――――
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://i.mjh.nz/au/Melbourne/epg.xml"  refresh="3600"
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
