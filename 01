@@ -453,6 +453,21 @@ https://ddy6new.newkso.ru/ddy6/premium98/mono.m3u8|Referer=https://kisskissplay.
 #################################################################################
 =====SONY SPORT====
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="CHAMPION TV",TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="CHAMPION TV",TNT SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+
 #EXTINF:-1 tvg-id="beINSports" group-title="CHAMPION TV" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
