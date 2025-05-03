@@ -1,0 +1,607 @@
+##### TV INDIHOME #####
+
+#EXTINF:-1 group-title="5. INDIHOME TV"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5bcwkTkJ8beiv7JgcsBhgu_uX93S6p3tsQ&s"
+
+==========================local indihome=============================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|TV LOKAL|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png",ALLPLAY ENT
+https://cdn09jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/transtv.png" group-title="5. INDIHOME",TransTV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/trans7.png" group-title="5. INDIHOME",Trans7
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_antvnew_big.png",ANTV HD
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/mdtv.png" group-title="5. INDIHOME",MD TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="5. INDIHOME", INEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_big1.png" group-title="5. INDIHOME", TVRI
+https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="5. INDIHOME", RTV
+https://cdn14jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="5. INDIHOME", JTV
+https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-88-SINDONEWSTV.png" group-title="5. INDIHOME", SINDONEWS TV
+https://streaming.indihometv.com/atm/DASH/mncnews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_beritasatu_ver4.png" group-title="5. INDIHOME", BTV
+https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_balitv_big1.png" group-title="5. INDIHOME", BALITV
+https://streaming.indihometv.com/atm/DASH/balitv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png",DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jaktv_big1.png" group-title="5. INDIHOME", JAKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="5. INDIHOME", NUSANTARA TV
+https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_antara_big1.png",ANTARA
+https://cdn12jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1706756492_JAWAPOSTV-88-HD.png" group-title="5. INDIHOME", JAWAPOS TV
+https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/sctv.png" group-title="5. INDIHOME",SCTV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png",Indosiar
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="5. INDIHOME", MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|TV SPORTS|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/assets/1719765710_SPOTV-OTT-88-BW.png",SPOTV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/assets/1719765786_SPOTV2-OTT-88-BW.png",SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_horizonsport_ver2.png",HORIZON SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+
+
+===========================NEWS INDIHOME=====================================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|TV BERITA|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME"tvg-logo="https://images.indihometv.com/logo_seatoday_ver1.png",SEA TODAY
+https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png" group-title="5. INDIHOME", TVONE
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="5. INDIHOME", METRO TV
+https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_dwtv_ver1.png",DW TV
+https://cdn12jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png",EURONEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_france24_big.png" group-title="5. INDIHOME", FRANCE 24
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH//FRANCE_24/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="5. INDIHOME", CNN INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png" group-title="5. INDIHOME", CNBC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_bloomberg_big1.png",BLOOMBERG
+https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://i.imgur.com/bsQCS1j.png",CNA
+https://streaming.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_big1.png" group-title="5. INDIHOME", ALJAZEERA
+https://streaming.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvbsnews_big.png" group-title="5. INDIHOME", TVBS NEWS
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/tvbs/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+
+===========================MOVIE INDIHOME============================================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|MOVIE|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="Movies;https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/assets/1725346944_STUDIOUNIVERSAL-OTT-88-WARNA.png" group-title="5. INDIHOME" tvg-id="" , Studio Universal
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_imc_big.png",IMC
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_big.png",GALAXY PREMIUM
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxypremium.m3u8
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_galaxy_big1.png",GALAXY
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/galaxy.m3u8
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_hitsmovie_ver1.png",HITS MOVIES
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hitsmovies.m3u8
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/flik.m3u8
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_big1.png",BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_celestialmovie_big.png",CELESTIAL MOVIE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_thrill_ver1.png",THRILL
+#EXTVLCOPT:http-user-agent=xplayer168
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/thrill.m3u8
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_zbioskop_ver1.png",ZBIOSKOP
+https://cdn11jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_big.png",CINEMAWORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
+
+
+==================================MUSIK INDIHOME=======================================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|MUSIK------" tvg-logo="" group-title="5. INDIHOME",------|TV MUSIK|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_pramborstv_big1.png",PRAMBORS
+https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_musikindo_big.png" group-title="5. INDIHOME", MUSIK INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_mtvlive_ver1.png",MTV
+https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+
+
+===================kids indihome==================================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|KIDS TV|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
+https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",Nick Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e69636b6a7230303030303030303030:5130a6e0a492e1cc152783c490679bc5
+https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_dreamworks_ver1.png",Dreamworks 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/dreamworks/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_nickelodeon_ver1.png",Nickelodeon
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/nickelodeon/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_duniaanak_big1.png",Dunia anak
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://i.imgur.com/Hg0he73.png",Cartoonito
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_mykids_ver1.png",MyKidz
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png",Mentari TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e69636b6a7230303030303030303030:5130a6e0a492e1cc152783c490679bc5
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_davinci_big1.png",Da Vinci Learning
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png",Moonbug
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd
+
+
+===================knowledge indihime==================================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|KNOWLADGE|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png",DISCOVERY ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",ANIMAL PLANET
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png",LOVE NATURE HD
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png" group-title="5. INDIHOME",Curiosity
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_cgtndocumentary_big1.png",CGTN DOCUMENTARY
+https://cdn11jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/1717557969_88-PHOENIXCHINESE-WARNA.png",PHOENIX CHINESE
+https://cdn11jtedge.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_crimeinvest_big.png",CRIME INVESTIGATION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
+
+
+========================lifestyle indihome===========================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|LIFESTYLE|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_atv_big.png",ATV
+https://cdn12jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_fashiontv_ver2.png",FASHIONTV
+https://cdn11jtedge.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd
+
+
+=========================ENTERTAIMENT INDIHOME==============================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|ENTERTAINMENT|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=696e7365727430303030303030303030:13c460676bc323f6b567493aadee2f64
+https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"  tvg-logo="https://images.indihometv.com/logo_arirang_big.png",ARIRANG
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/arirang/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_cctv4_big1.png",CCTV4
+https://cdn11jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_nhkworld_big.png",NHK WORLD JAPAN
+https://cdn11jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_abcaustralia_big.png",ABC AUSTRALIA
+https://cdn11jtedge.indihometv.com/atm/DASH/ABCAUSTRALIA/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"tvg-logo="https://images.indihometv.com/logo_chinesedrama_big.png",CHINESE DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_hits_ver1.png",HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/hits_dash/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME"tvg-logo="https://images.indihometv.com/logo_axn_ver2.png",AXN
+https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png",KPLUS
+https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_warner_ver1.png",WARNER TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_blueantextreme_ver1.png",ROCK ACTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/blueantextreme/manifest.mpd
+
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/tlc/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_dunialain_big.png",DUNIA LAIN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
+https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_blueant_big.png",ROCK ENTERTAIMENT
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/blueant/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_aniplus_big1.png",ANIPLUS
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ANIPLUS.m3u8
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_animax_big.png",ANIMAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_sone_big.png",ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/sone/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIK
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/kix/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_lifetime_big.png",LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_tv5monde_big1.png",TV5 MONDE
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/tv5monde/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_zhejiang_big.png",ZHEJIANG TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/logo_shenzen_big.png",SHENZEN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/1705919539_NEWTVCOMPREHENSIVE-88-HD-WARNA.png",New Tv Comprehensive
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/1705920072_NEWTVFINANCE-88-HD-WARNA.png",New Tv Finance
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/newtvfinance/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+#EXTINF:-1 group-title="5. INDIHOME" tvg-logo="https://images.indihometv.com/assets/1717557665_88-PHOENIXINFONEWS-WARNA.png",Phoenix InfoNews
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
+
+===========================religi indihome==============================
+
+#EXTINF:-1 tvg-id="" tvg-name="------|INDIHOME------" tvg-logo="" group-title="5. INDIHOME",------|RELIGI|------
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/135910
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mtatv_big1.png" group-title="5. INDIHOME", MTATV
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png" group-title="5. INDIHOME", TAWAF TV
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_uchannel_big1.png" group-title="5. INDIHOME", UCHANNEL
+https://streaming.indihometv.com/atm/DASH/uchannel/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_rodjatv_big1.png" group-title="5. INDIHOME", RODJATV
+https://streaming.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tv9_big.png" group-title="5. INDIHOME", TV9 NU
+https://streaming.indihometv.com/atm/DASH/tv9/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tvmui_big.png" group-title="5. INDIHOME", MUI TV
+https://streaming.indihometv.com/atm/DASH/muitv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_tawaftvbaru_big.png" group-title="5. INDIHOME", Tawaf TV
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_alquran_big1.png" group-title="5. INDIHOME", AlQuran Kareem
+https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd
+
+#EXTINF: -1 tvg-logo="https://images.indihometv.com/logo_mqtv_big1.png" group-title="5. INDIHOME", MQTV
+https://streaming.indihometv.com/atm/DASH/mqtv/manifest.mpd|user-agent=Mozilla/5.0
+
