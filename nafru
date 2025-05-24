@@ -9,6 +9,10 @@ https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=
 ###########################
 ######## MNC GROUP ########
 ###########################
+#EXTINF:-1 tvg-id="RCTI" tvg-logo="https://static.mncnow.id/images/channel/38e942a2/7bbd_r32.jpg" group-title="Nasional", RCTI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd 
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="Nasional", GTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -24,11 +28,6 @@ https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-
-#EXTINF:-1 tvg-id="RCTI" tvg-logo="https://static.mncnow.id/images/channel/38e942a2/7bbd_r32.jpg" group-title="Nasional", RCTI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd 
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/nbBkVwX/MNC.png" group-title="Nasional",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
