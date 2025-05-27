@@ -66,9 +66,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-id="Indosiar.id" tvg-logo="https://cdn.urfan.id/logo/indosiar.png",Indosiar HD
-https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/dos.m3u8
-
-#EXTINF:-1 group-title="Nasional" tvg-id="Indosiar.id" tvg-logo="https://cdn.urfan.id/logo/indosiar.png",Indosiar HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -78,9 +75,6 @@ https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-#EXTINF:-1 group-title="Nasional" tvg-id="MOJI.id" tvg-logo="https://cdn.urfan.id/logo/moji.png",Moji HD
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-id="MOJI.id" tvg-logo="https://cdn.urfan.id/logo/moji.png",Moji HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -111,6 +105,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #############################
 ######## TRANS MEDIA ########
 #############################
+
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/trans%207.png",Trans 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTINF:-1 tvg-id="TransTV.id" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TransTv.png",Trans TV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="TransTV.id" tvg-logo="https://iptv.urfan.web.id/logo/transtv.png",Trans TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -193,78 +200,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-
-##################   TV DIGITAL  ###################
-####################################################
-
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://thumbor.prod.vidiocdn.com/WgV08OmwI9p1qd7IJTni1t9uxoo=/640x360/filters:quality(70)/vidio-web-prod-video/uploads/video/image/8156027/press-conference-proliga-2024-c0be19.jpg" group-title="TV DIGITAL",MOJI 
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-http://xtv.ooo:8080/live/danyear12/am809100/350997.ts
-#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dHLP5JRah115Nwa1mG6JlOT
-
-#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/mnctv.png" group-title="TV DIGITAL",MNCTV
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
-
-#EXTINF:-1 group-title="TV DIGITAL" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/trans%207.png",Trans 7 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2705.ts
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TransTv.png" group-title="TV DIGITAL",Trans TV
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/indosiar.png" group-title="TV DIGITAL",INDOSIAR
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/sctv.png" group-title="TV DIGITAL",SCTV
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
-#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF03Gl-n7DGhPYlZqbpRa7H
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/rcti.png" group-title="TV DIGITAL",RCTI
-#https://cdn.streamplay.cyou:443/play/E-3cBNO1YGFKSqM40cD7GqK8YcNRvBA0kQfIkysB0dF0aQ-7wAbnWwsHhTcys5TF
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
-
-#EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png" group-title="TV DIGITAL",MDTV HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
-
-
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/nusantara_tv.png" group-title="TV DIGITAL",Nusantara TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="TV DIGITAL" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/tv_one.png",TVOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-###https://dsgtq5sngxkde.cloudfront.net/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/metro.png" group-title="TV DIGITAL", Metro TV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
-
-
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/kompas.png" group-title="TV DIGITAL",Kompas TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-###https://dsgtq5sngxkde.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/cnbc.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="TV DIGITAL",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/atv.png" group-title="TV DIGITAL",ATV 
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29899.m3u8
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="hhttps://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/History.png" group-title="TV DIGITAL",History FHD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
 
 ############################################################
 ########################  SPORTS  ##########################
