@@ -250,6 +250,37 @@ https://windnew.newkso.ru/wind/premium473/mono.m3u8|Referer=https://kisskissplay
 
 ############################   LIVE EVENT  #############################
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTINF:-1 tvg-id="MNCSports.id" group-title="🔴 LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstar
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTINF:-1 tvg-id="MNCSports2.id" group-title="🔴 LIVE EVENT" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png",Sportstar 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+#EXTINF:0 tvg-id="SS4" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="🔴 LIVE EVENT", SPORTSTARS 4 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="🔴 LIVE EVENT",Soccer Channel ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-1.png" group-title="🔴 LIVE EVENT",Astro SuperSport 1
 #https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|Referer=https://kisskissplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://kisskissplay.cfd
 
@@ -268,8 +299,6 @@ https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png",True Premier 2
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
-
-
 
 #EXTINF:-1 group-title="🔴 LIVE EVENT" tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premiere Football 1
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
