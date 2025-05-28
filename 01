@@ -3,8 +3,6 @@
 
 ########################     TV NASIONAL   ###################################
 ##############################################################################
-#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/72/2025/05/28/MU-ASEAN-ALLSTAR-copy-2404916243.jpg" group-title="Friendly Match" tvg-id="", MUTV VS Asean All Star
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="NASIONAL", RCTI_+ 
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
@@ -371,6 +369,9 @@ https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9si4GoKNVrZXe7R5IQvGlhiLoRxFLz7jprXUmyFYOqIzNS0tgS8iYkem9q1e0u3hHOXyCF4Sjpg=s900-c-k-c0x00ffffff-no-rj" group-title="🔴 LIVE EVENT" tvg-id="", MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="beINSports" group-title="🔴 LIVE EVENT" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png", beIN Sports 1 
