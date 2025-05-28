@@ -3,7 +3,7 @@
 
 ########################     TV NASIONAL   ###################################
 ##############################################################################
-#EXTINF:-1 tvg-logo="" group-title="Friendly Match" tvg-id="", MUTV VS Asean All Star
+#EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/72/2025/05/28/MU-ASEAN-ALLSTAR-copy-2404916243.jpg" group-title="Friendly Match" tvg-id="", MUTV VS Asean All Star
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="NASIONAL", RCTI_+ 
