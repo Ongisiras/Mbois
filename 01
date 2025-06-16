@@ -227,11 +227,6 @@ https://tv.arectv34.sbs/live/t1.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com
 https://tv.arectv34.sbs/live/t2.m3u8
 
-#EXTINF:-1 tvg-id="127" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" tvg-name="Nba TV" group-title="🔴 LIVE EVENT",Nba TV [HD]
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com
-https://bs.arectv33.sbs/list/yayinnbatv.m3u8
-
 #EXTINF:-1 tvg-id="141" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" tvg-name="S SPORT 1" group-title="🔴 LIVE EVENT",S SPORT 1 [HD]
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com
