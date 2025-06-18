@@ -184,6 +184,26 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=1561&type=hls
 
+######################    FIFA WORLD CUP CLUB  ######################
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/42/1/sportv-logo-png_seeklogo-424355.png" group-title="FIFA CLUB WORLD CUP",SPORTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="FIFA CLUB WORLD CUP", FIFA CLUB WORLD CUP 1
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150143
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="FIFA CLUB WORLD CUP",FIFA CLUB WORLD CUP 2
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150170
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="FIFA CLUB WORLD CUP",FIFA CLUB WORLD CUP 3
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150134
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="FIFA CLUB WORLD CUP",FIFA CLUB WORLD CUP 4
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150152
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go4.pw/CARIBBIEAN/fifa_club_world_cup.png" group-title="FIFA CLUB WORLD CUP",FIFA CLUB WORLD CUP 5
+http://bestp55.xyz:80/A7FC77529786/519C32219872/1150161
 
 
 
