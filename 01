@@ -191,6 +191,9 @@ https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=1561&type=hls
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
+#EXTINF:-1 MV tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUX06pQ8i-JXDPUb7EdlCYVHfzTyQi6N_7qPpsBesz-X1T5yPxUKSdQQD960oDQug6W4&usqp=CAU" group-title="FIFA CLUB WORLD CUP", Masr
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="FIFA CLUB WORLD CUP" ch-number="1" type="channel",DAZN 
