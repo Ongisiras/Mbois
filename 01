@@ -1905,6 +1905,47 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beIN SPORT 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/4273HXd/Beinsport5.png", BEIN SPORT 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
+###########################  FIFA+ ################################
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇦🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-ATBA3300007PT.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-CABD1200008JG.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇨🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-CHBA3300010UC.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇩🇪
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-DEBA3300019EB.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇪🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-ESBC2700009B4.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇫🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-FRBA3300037Y7.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇬🇧
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-GBBD1100008YW.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇮🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-ITBD1000002HF.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇰🇷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-KRBD1900001Y2.m3u8
+
+#EXTINF:-1 group-title="FIFA+" tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/18/0f/6e180f08-4974-0b45-d24c-55e57fc717ee/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1200x630wa.png",FIFA+ 🇺🇸
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://jmp2.uk/sam-USBD12000255B.m3u8
 
 ############################  DAZN SPORT  ##########################
 
