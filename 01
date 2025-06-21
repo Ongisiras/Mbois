@@ -194,6 +194,11 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudy
 #EXTINF:-1 MV tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUX06pQ8i-JXDPUb7EdlCYVHfzTyQi6N_7qPpsBesz-X1T5yPxUKSdQQD960oDQug6W4&usqp=CAU" group-title="FIFA CLUB WORLD CUP", Masr
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 
+#EXTINF:-1 group-title="FIFA CLUB WORLD CUP" tvg-id="UEFA" tvg-logo="https://i.imgur.com/JJy6kp5.jpeg", Live 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fifa2&type=m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3kJG4tH/dazn.png" group-title="FIFA CLUB WORLD CUP" ch-number="1" type="channel",DAZN 
