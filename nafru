@@ -9,47 +9,50 @@ https://www.googleapis.com/drive/v3/files/1fwaqDiWZAOsLj1Xgj1T-Z7Fr4OEa1EBt?alt=
 ###########################
 ######## MNC GROUP ########
 ###########################
-#EXTINF:-1 tvg-id="RCTI" tvg-logo="https://static.mncnow.id/images/channel/38e942a2/7bbd_r32.jpg" group-title="Nasional", RCTI HD 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd 
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="Nasional", GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-
-#EXTINF:-1 tvg-id="GTV" tvg-logo="https://static.mncnow.id/images/channel/4d7247c2/2cc4_r32.jpg" group-title="Nasional", GTV HD 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="Nasional",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="Nasional",RCTI 🇮🇩
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="Nasional", GTV 🇮🇩
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Nasional",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/nbBkVwX/MNC.png" group-title="Nasional",MNC TV 🇮🇩
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTINF:-1 tvg-id="MNC TV" tvg-logo="https://static.mncnow.id/images/channel/e8d2f9ce/be44_r32.jpg" group-title="Nasional", MNC TV HD 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd 
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="Nasional",MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png",INEWS 🇮🇩
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
-#EXTINF:-1 tvg-id="iNews " tvg-logo="https://static.mncnow.id/images/channel/05ef0475/e84c_r32.jpg" group-title="Nasional", iNews HD 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd 
-
-
+#EXTINF:-1 group-title="Nasional" tvg-id="iNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/M2R3lfg.png",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
 #############################
 ######## EMTEK GROUP ########
 #############################
